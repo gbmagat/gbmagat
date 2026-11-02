@@ -86,8 +86,6 @@ Technologies I have used in freelance work, academic projects, and coursework.
 
 I'm working toward a career in **cloud computing**, with an interest in infrastructure and application deployment. I completed **AWS Academy Cloud Foundations** training and used **Amazon EC2** and **AWS Lambda** in coursework. I'm building on that foundation through web application and Linux server projects.
 
-<a href="https://www.credly.com/badges/611bcc9b-1a83-4df2-93e6-599187d39f99/public_url"><img src="./assets/training-link.svg" alt="View AWS Academy training badge" width="264" height="34"></a>
-
 ---
 
 <p align="center">
