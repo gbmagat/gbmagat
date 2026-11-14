@@ -14,7 +14,7 @@
 
 ### About me
 
-I am a fourth-year **BS Computer Science student** building web applications through freelance work and academic projects. I enjoy connecting the pieces—from a responsive interface and backend API to a database and a running application on a Linux server.
+I'm a fourth-year **BS Computer Science student** building web applications through freelance work and academic projects. I enjoy connecting the pieces—from a responsive interface and backend API to a database and a running application on a Linux server.
 
 - 💻 **Building web applications:** responsive interfaces, backend APIs, and dashboards with React, Next.js, Node.js, and Express.
 - 🗄️ **Working with data:** MySQL, PostgreSQL, and SQLite for application records, participant tracking, and reporting.
